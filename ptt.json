@@ -1,0 +1,2066 @@
+{
+  "sayonarahatsukoi": {
+    "pst": 1.5,
+    "prs": 4.5,
+    "ftr": 7.0,
+    "byd": 0.0
+  },
+  "lostcivilization": {
+    "pst": 4.0,
+    "prs": 7.0,
+    "ftr": 9.2,
+    "byd": 9.8
+  },
+  "goodtek": {
+    "pst": 4.0,
+    "prs": 6.5,
+    "ftr": 9.3,
+    "byd": 9.8
+  },
+  "viyella": {
+    "pst": 3.5,
+    "prs": 6.0,
+    "ftr": 8.5,
+    "byd": 0.0
+  },
+  "rise": {
+    "pst": 2.5,
+    "prs": 4.0,
+    "ftr": 7.5,
+    "byd": 0.0
+  },
+  "lucifer": {
+    "pst": 3.5,
+    "prs": 5.5,
+    "ftr": 8.2,
+    "byd": 0.0
+  },
+  "fairytale": {
+    "pst": 1.0,
+    "prs": 3.5,
+    "ftr": 7.0,
+    "byd": 9.5
+  },
+  "hearditsaid": {
+    "pst": 3.5,
+    "prs": 6.0,
+    "ftr": 8.1,
+    "byd": 0.0
+  },
+  "babaroque": {
+    "pst": 3.0,
+    "prs": 6.5,
+    "ftr": 8.5,
+    "byd": 0.0
+  },
+  "memoryfactory": {
+    "pst": 2.5,
+    "prs": 5.5,
+    "ftr": 8.9,
+    "byd": 0.0
+  },
+  "snowwhite": {
+    "pst": 2.5,
+    "prs": 5.0,
+    "ftr": 8.4,
+    "byd": 0.0
+  },
+  "relentless": {
+    "pst": 4.5,
+    "prs": 6.5,
+    "ftr": 8.0,
+    "byd": 0.0
+  },
+  "shadesoflight": {
+    "pst": 3.0,
+    "prs": 6.0,
+    "ftr": 8.3,
+    "byd": 9.0
+  },
+  "vexaria": {
+    "pst": 2.5,
+    "prs": 5.0,
+    "ftr": 7.0,
+    "byd": 8.8
+  },
+  "essenceoftwilight": {
+    "pst": 4.5,
+    "prs": 7.0,
+    "ftr": 9.1,
+    "byd": 0.0
+  },
+  "qualia": {
+    "pst": 4.5,
+    "prs": 7.0,
+    "ftr": 9.1,
+    "byd": 9.7
+  },
+  "pragmatism": {
+    "pst": 4.5,
+    "prs": 8.6,
+    "ftr": 10.1,
+    "byd": 11.0
+  },
+  "sheriruth": {
+    "pst": 5.5,
+    "prs": 7.5,
+    "ftr": 10.1,
+    "byd": 0.0
+  },
+  "lumia": {
+    "pst": 2.5,
+    "prs": 5.5,
+    "ftr": 8.4,
+    "byd": 9.5
+  },
+  "dement": {
+    "pst": 3.5,
+    "prs": 6.0,
+    "ftr": 7.5,
+    "byd": 9.9
+  },
+  "dandelion": {
+    "pst": 2.5,
+    "prs": 6.0,
+    "ftr": 8.5,
+    "byd": 0.0
+  },
+  "anokumene": {
+    "pst": 2.5,
+    "prs": 6.5,
+    "ftr": 9.2,
+    "byd": 0.0
+  },
+  "infinityheaven": {
+    "pst": 1.5,
+    "prs": 5.5,
+    "ftr": 7.5,
+    "byd": 9.6
+  },
+  "partyvinyl": {
+    "pst": 4.0,
+    "prs": 7.5,
+    "ftr": 9.4,
+    "byd": 10.1
+  },
+  "flashback": {
+    "pst": 2.0,
+    "prs": 5.0,
+    "ftr": 8.8,
+    "byd": 0.0
+  },
+  "flyburg": {
+    "pst": 3.0,
+    "prs": 6.0,
+    "ftr": 9.0,
+    "byd": 0.0
+  },
+  "nirvluce": {
+    "pst": 2.5,
+    "prs": 7.0,
+    "ftr": 10.3,
+    "byd": 0.0
+  },
+  "paradise": {
+    "pst": 1.0,
+    "prs": 4.0,
+    "ftr": 7.5,
+    "byd": 0.0
+  },
+  "brandnewworld": {
+    "pst": 2.0,
+    "prs": 4.0,
+    "ftr": 7.5,
+    "byd": 0.0
+  },
+  "dataerror": {
+    "pst": 3.0,
+    "prs": 7.0,
+    "ftr": 9.5,
+    "byd": 0.0
+  },
+  "crosssoul": {
+    "pst": 4.0,
+    "prs": 7.0,
+    "ftr": 9.4,
+    "byd": 0.0
+  },
+  "yourvoiceso": {
+    "pst": 3.5,
+    "prs": 6.5,
+    "ftr": 9.4,
+    "byd": 0.0
+  },
+  "chronostasis": {
+    "pst": 3.5,
+    "prs": 7.5,
+    "ftr": 8.9,
+    "byd": 0.0
+  },
+  "kanagawa": {
+    "pst": 1.0,
+    "prs": 5.5,
+    "ftr": 9.0,
+    "byd": 9.8
+  },
+  "moonlightofsandcastle": {
+    "pst": 1.5,
+    "prs": 5.0,
+    "ftr": 7.5,
+    "byd": 0.0
+  },
+  "reconstruction": {
+    "pst": 2.5,
+    "prs": 6.0,
+    "ftr": 8.4,
+    "byd": 0.0
+  },
+  "evoltex": {
+    "pst": 2.0,
+    "prs": 7.0,
+    "ftr": 8.9,
+    "byd": 0.0
+  },
+  "oracle": {
+    "pst": 3.0,
+    "prs": 5.5,
+    "ftr": 9.3,
+    "byd": 0.0
+  },
+  "aterlbus": {
+    "pst": 4.0,
+    "prs": 7.0,
+    "ftr": 10.2,
+    "byd": 0.0
+  },
+  "clotho": {
+    "pst": 2.0,
+    "prs": 5.0,
+    "ftr": 7.5,
+    "byd": 0.0
+  },
+  "impurebird": {
+    "pst": 2.0,
+    "prs": 5.5,
+    "ftr": 9.4,
+    "byd": 0.0
+  },
+  "ignotus": {
+    "pst": 3.5,
+    "prs": 6.5,
+    "ftr": 9.3,
+    "byd": 9.9
+  },
+  "lethaeus": {
+    "pst": 3.5,
+    "prs": 6.5,
+    "ftr": 9.7,
+    "byd": 0.0
+  },
+  "romancewars": {
+    "pst": 1.0,
+    "prs": 4.0,
+    "ftr": 7.5,
+    "byd": 0.0
+  },
+  "blossoms": {
+    "pst": 1.0,
+    "prs": 4.0,
+    "ftr": 7.0,
+    "byd": 0.0
+  },
+  "moonheart": {
+    "pst": 2.5,
+    "prs": 5.5,
+    "ftr": 8.4,
+    "byd": 9.7
+  },
+  "genesis": {
+    "pst": 2.0,
+    "prs": 5.5,
+    "ftr": 8.2,
+    "byd": 0.0
+  },
+  "harutopia": {
+    "pst": 1.0,
+    "prs": 4.5,
+    "ftr": 8.5,
+    "byd": 0.0
+  },
+  "auxesia": {
+    "pst": 3.5,
+    "prs": 6.5,
+    "ftr": 9.3,
+    "byd": 0.0
+  },
+  "rabbitintheblackroom": {
+    "pst": 2.5,
+    "prs": 5.5,
+    "ftr": 8.4,
+    "byd": 0.0
+  },
+  "modelista": {
+    "pst": 3.5,
+    "prs": 7.5,
+    "ftr": 10.0,
+    "byd": 0.0
+  },
+  "soundwitch": {
+    "pst": 3.5,
+    "prs": 6.5,
+    "ftr": 9.9,
+    "byd": 0.0
+  },
+  "trappola": {
+    "pst": 3.0,
+    "prs": 6.0,
+    "ftr": 10.0,
+    "byd": 10.5
+  },
+  "iconoclast": {
+    "pst": 4.0,
+    "prs": 7.0,
+    "ftr": 9.1,
+    "byd": 0.0
+  },
+  "conflict": {
+    "pst": 4.5,
+    "prs": 7.5,
+    "ftr": 10.2,
+    "byd": 0.0
+  },
+  "axiumcrisis": {
+    "pst": 5.5,
+    "prs": 8.5,
+    "ftr": 10.7,
+    "byd": 0.0
+  },
+  "grievouslady": {
+    "pst": 6.5,
+    "prs": 9.3,
+    "ftr": 11.3,
+    "byd": 0.0
+  },
+  "dreaminattraction": {
+    "pst": 4.5,
+    "prs": 7.0,
+    "ftr": 9.4,
+    "byd": 0.0
+  },
+  "redandblue": {
+    "pst": 4.0,
+    "prs": 7.5,
+    "ftr": 9.4,
+    "byd": 10.0
+  },
+  "onelastdrive": {
+    "pst": 2.5,
+    "prs": 5.5,
+    "ftr": 8.2,
+    "byd": 0.0
+  },
+  "surrender": {
+    "pst": 3.0,
+    "prs": 6.5,
+    "ftr": 8.8,
+    "byd": 0.0
+  },
+  "yozakurafubuki": {
+    "pst": 4.5,
+    "prs": 7.0,
+    "ftr": 9.4,
+    "byd": 0.0
+  },
+  "cyanine": {
+    "pst": 4.0,
+    "prs": 7.5,
+    "ftr": 10.6,
+    "byd": 0.0
+  },
+  "dreamgoeson": {
+    "pst": 1.5,
+    "prs": 5.0,
+    "ftr": 7.5,
+    "byd": 0.0
+  },
+  "journey": {
+    "pst": 3.0,
+    "prs": 6.0,
+    "ftr": 8.8,
+    "byd": 0.0
+  },
+  "specta": {
+    "pst": 3.5,
+    "prs": 6.5,
+    "ftr": 9.5,
+    "byd": 0.0
+  },
+  "quon": {
+    "pst": 4.0,
+    "prs": 6.5,
+    "ftr": 9.6,
+    "byd": 0.0
+  },
+  "syro": {
+    "pst": 3.5,
+    "prs": 6.5,
+    "ftr": 9.3,
+    "byd": 0.0
+  },
+  "reinvent": {
+    "pst": 2.5,
+    "prs": 6.5,
+    "ftr": 8.5,
+    "byd": 0.0
+  },
+  "silentrush": {
+    "pst": 2.5,
+    "prs": 5.0,
+    "ftr": 8.6,
+    "byd": 0.0
+  },
+  "singularity": {
+    "pst": 4.5,
+    "prs": 7.5,
+    "ftr": 10.7,
+    "byd": 10.4
+  },
+  "memoryforest": {
+    "pst": 3.5,
+    "prs": 6.0,
+    "ftr": 9.8,
+    "byd": 0.0
+  },
+  "strongholds": {
+    "pst": 2.5,
+    "prs": 5.0,
+    "ftr": 9.2,
+    "byd": 0.0
+  },
+  "nexttoyou": {
+    "pst": 4.5,
+    "prs": 7.0,
+    "ftr": 8.8,
+    "byd": 9.6
+  },
+  "metallicpunisher": {
+    "pst": 3.0,
+    "prs": 7.0,
+    "ftr": 10.3,
+    "byd": 0.0
+  },
+  "blaster": {
+    "pst": 4.0,
+    "prs": 7.0,
+    "ftr": 9.3,
+    "byd": 0.0
+  },
+  "guardina": {
+    "pst": 4.0,
+    "prs": 7.5,
+    "ftr": 10.4,
+    "byd": 0.0
+  },
+  "carminescythe": {
+    "pst": 4.0,
+    "prs": 7.5,
+    "ftr": 9.6,
+    "byd": 0.0
+  },
+  "bethere": {
+    "pst": 4.0,
+    "prs": 7.5,
+    "ftr": 9.4,
+    "byd": 0.0
+  },
+  "cyberneciacatharsis": {
+    "pst": 4.0,
+    "prs": 7.0,
+    "ftr": 9.5,
+    "byd": 0.0
+  },
+  "callmyname": {
+    "pst": 3.5,
+    "prs": 6.0,
+    "ftr": 8.7,
+    "byd": 0.0
+  },
+  "inkarusi": {
+    "pst": 2.0,
+    "prs": 4.0,
+    "ftr": 7.5,
+    "byd": 0.0
+  },
+  "mazenine": {
+    "pst": 3.0,
+    "prs": 3.5,
+    "ftr": 8.9,
+    "byd": 0.0
+  },
+  "themessage": {
+    "pst": 3.0,
+    "prs": 6.5,
+    "ftr": 9.7,
+    "byd": 0.0
+  },
+  "sulfur": {
+    "pst": 4.0,
+    "prs": 6.0,
+    "ftr": 9.7,
+    "byd": 0.0
+  },
+  "halcyon": {
+    "pst": 5.5,
+    "prs": 8.2,
+    "ftr": 10.7,
+    "byd": 0.0
+  },
+  "etherstrike": {
+    "pst": 5.5,
+    "prs": 8.3,
+    "ftr": 10.3,
+    "byd": 0.0
+  },
+  "fractureray": {
+    "pst": 6.0,
+    "prs": 9.5,
+    "ftr": 11.3,
+    "byd": 0.0
+  },
+  "suomi": {
+    "pst": 2.0,
+    "prs": 5.0,
+    "ftr": 7.5,
+    "byd": 0.0
+  },
+  "bookmaker": {
+    "pst": 4.5,
+    "prs": 6.5,
+    "ftr": 8.3,
+    "byd": 10.0
+  },
+  "darakunosono": {
+    "pst": 2.0,
+    "prs": 7.0,
+    "ftr": 9.5,
+    "byd": 0.0
+  },
+  "dropdead": {
+    "pst": 1.5,
+    "prs": 9.5,
+    "ftr": 9.1,
+    "byd": 10.5
+  },
+  "fallensquare": {
+    "pst": 3.0,
+    "prs": 7.0,
+    "ftr": 9.6,
+    "byd": 0.0
+  },
+  "nhelv": {
+    "pst": 3.0,
+    "prs": 6.5,
+    "ftr": 9.9,
+    "byd": 0.0
+  },
+  "espebranch": {
+    "pst": 3.5,
+    "prs": 6.0,
+    "ftr": 9.6,
+    "byd": 0.0
+  },
+  "purgatorium": {
+    "pst": 2.5,
+    "prs": 6.0,
+    "ftr": 8.4,
+    "byd": 9.6
+  },
+  "hikari": {
+    "pst": 2.5,
+    "prs": 6.0,
+    "ftr": 8.1,
+    "byd": 0.0
+  },
+  "stager": {
+    "pst": 3.0,
+    "prs": 6.5,
+    "ftr": 9.5,
+    "byd": 0.0
+  },
+  "hallofmirrors": {
+    "pst": 3.0,
+    "prs": 5.5,
+    "ftr": 8.2,
+    "byd": 0.0
+  },
+  "linearaccelerator": {
+    "pst": 2.5,
+    "prs": 6.5,
+    "ftr": 9.8,
+    "byd": 0.0
+  },
+  "tiferet": {
+    "pst": 4.5,
+    "prs": 7.5,
+    "ftr": 10.4,
+    "byd": 0.0
+  },
+  "alexandrite": {
+    "pst": 4.5,
+    "prs": 7.0,
+    "ftr": 10.0,
+    "byd": 0.0
+  },
+  "rugie": {
+    "pst": 3.0,
+    "prs": 6.0,
+    "ftr": 9.2,
+    "byd": 0.0
+  },
+  "astraltale": {
+    "pst": 4.5,
+    "prs": 7.0,
+    "ftr": 9.6,
+    "byd": 0.0
+  },
+  "phantasia": {
+    "pst": 4.0,
+    "prs": 5.5,
+    "ftr": 9.2,
+    "byd": 0.0
+  },
+  "empireofwinter": {
+    "pst": 3.5,
+    "prs": 6.5,
+    "ftr": 9.0,
+    "byd": 0.0
+  },
+  "merlin": {
+    "pst": 3.0,
+    "prs": 5.5,
+    "ftr": 8.9,
+    "byd": 9.4
+  },
+  "dxfullmetal": {
+    "pst": 3.0,
+    "prs": 6.0,
+    "ftr": 9.8,
+    "byd": 0.0
+  },
+  "omakeno": {
+    "pst": 3.0,
+    "prs": 6.5,
+    "ftr": 9.5,
+    "byd": 10.2
+  },
+  "scarletlance": {
+    "pst": 4.0,
+    "prs": 7.0,
+    "ftr": 10.1,
+    "byd": 0.0
+  },
+  "ouroboros": {
+    "pst": 4.5,
+    "prs": 7.0,
+    "ftr": 10.7,
+    "byd": 0.0
+  },
+  "libertas": {
+    "pst": 3.5,
+    "prs": 5.5,
+    "ftr": 9.2,
+    "byd": 0.0
+  },
+  "solitarydream": {
+    "pst": 4.0,
+    "prs": 7.0,
+    "ftr": 8.8,
+    "byd": 0.0
+  },
+  "antithese": {
+    "pst": 2.0,
+    "prs": 5.0,
+    "ftr": 8.8,
+    "byd": 9.5
+  },
+  "corruption": {
+    "pst": 3.0,
+    "prs": 6.5,
+    "ftr": 9.8,
+    "byd": 0.0
+  },
+  "blackterritory": {
+    "pst": 3.0,
+    "prs": 7.5,
+    "ftr": 9.8,
+    "byd": 0.0
+  },
+  "viciousheroism": {
+    "pst": 4.0,
+    "prs": 7.5,
+    "ftr": 10.0,
+    "byd": 0.0
+  },
+  "cyaegha": {
+    "pst": 5.5,
+    "prs": 8.4,
+    "ftr": 10.7,
+    "byd": 0.0
+  },
+  "revixy": {
+    "pst": 3.0,
+    "prs": 6.0,
+    "ftr": 9.0,
+    "byd": 0.0
+  },
+  "grimheart": {
+    "pst": 2.5,
+    "prs": 5.0,
+    "ftr": 8.6,
+    "byd": 0.0
+  },
+  "vector": {
+    "pst": 3.0,
+    "prs": 7.0,
+    "ftr": 9.4,
+    "byd": 0.0
+  },
+  "supernova": {
+    "pst": 3.0,
+    "prs": 6.0,
+    "ftr": 9.7,
+    "byd": 0.0
+  },
+  "dottodot": {
+    "pst": 3.0,
+    "prs": 6.0,
+    "ftr": 8.3,
+    "byd": 0.0
+  },
+  "garakuta": {
+    "pst": 4.5,
+    "prs": 6.5,
+    "ftr": 10.4,
+    "byd": 0.0
+  },
+  "ikazuchi": {
+    "pst": 3.5,
+    "prs": 7.5,
+    "ftr": 10.4,
+    "byd": 0.0
+  },
+  "worldvanquisher": {
+    "pst": 2.5,
+    "prs": 5.5,
+    "ftr": 10.8,
+    "byd": 0.0
+  },
+  "dreadnought": {
+    "pst": 4.0,
+    "prs": 7.0,
+    "ftr": 9.7,
+    "byd": 0.0
+  },
+  "particlearts": {
+    "pst": 3.5,
+    "prs": 6.0,
+    "ftr": 8.8,
+    "byd": 0.0
+  },
+  "vindication": {
+    "pst": 4.0,
+    "prs": 6.5,
+    "ftr": 9.6,
+    "byd": 0.0
+  },
+  "heavensdoor": {
+    "pst": 4.5,
+    "prs": 7.5,
+    "ftr": 9.9,
+    "byd": 10.8
+  },
+  "ringedgenesis": {
+    "pst": 5.5,
+    "prs": 8.4,
+    "ftr": 10.8,
+    "byd": 0.0
+  },
+  "chelsea": {
+    "pst": 3.0,
+    "prs": 6.0,
+    "ftr": 8.5,
+    "byd": 0.0
+  },
+  "aiueoon": {
+    "pst": 3.5,
+    "prs": 6.5,
+    "ftr": 9.4,
+    "byd": 0.0
+  },
+  "melodyoflove": {
+    "pst": 3.5,
+    "prs": 7.5,
+    "ftr": 9.6,
+    "byd": 0.0
+  },
+  "tiemedowngently": {
+    "pst": 3.0,
+    "prs": 5.5,
+    "ftr": 8.3,
+    "byd": 0.0
+  },
+  "valhallazero": {
+    "pst": 4.5,
+    "prs": 7.0,
+    "ftr": 10.4,
+    "byd": 0.0
+  },
+  "mirzam": {
+    "pst": 4.0,
+    "prs": 7.0,
+    "ftr": 10.0,
+    "byd": 0.0
+  },
+  "diode": {
+    "pst": 2.5,
+    "prs": 5.5,
+    "ftr": 8.1,
+    "byd": 0.0
+  },
+  "freefall": {
+    "pst": 4.0,
+    "prs": 7.0,
+    "ftr": 8.6,
+    "byd": 9.8
+  },
+  "gloryroad": {
+    "pst": 4.5,
+    "prs": 7.0,
+    "ftr": 10.6,
+    "byd": 0.0
+  },
+  "monochromeprincess": {
+    "pst": 4.5,
+    "prs": 7.5,
+    "ftr": 9.7,
+    "byd": 0.0
+  },
+  "heavenlycaress": {
+    "pst": 3.5,
+    "prs": 7.5,
+    "ftr": 9.8,
+    "byd": 0.0
+  },
+  "senkyou": {
+    "pst": 3.0,
+    "prs": 5.5,
+    "ftr": 8.7,
+    "byd": 0.0
+  },
+  "filament": {
+    "pst": 4.5,
+    "prs": 7.5,
+    "ftr": 9.7,
+    "byd": 0.0
+  },
+  "avantraze": {
+    "pst": 3.5,
+    "prs": 6.5,
+    "ftr": 9.6,
+    "byd": 0.0
+  },
+  "battlenoone": {
+    "pst": 3.5,
+    "prs": 6.5,
+    "ftr": 9.7,
+    "byd": 0.0
+  },
+  "laqryma": {
+    "pst": 3.5,
+    "prs": 6.5,
+    "ftr": 9.1,
+    "byd": 9.9
+  },
+  "einherjar": {
+    "pst": 4.0,
+    "prs": 7.0,
+    "ftr": 9.8,
+    "byd": 0.0
+  },
+  "izana": {
+    "pst": 5.0,
+    "prs": 8.3,
+    "ftr": 10.3,
+    "byd": 0.0
+  },
+  "saikyostronger": {
+    "pst": 5.5,
+    "prs": 9.4,
+    "ftr": 11.0,
+    "byd": 0.0
+  },
+  "worldexecuteme": {
+    "pst": 3.5,
+    "prs": 5.0,
+    "ftr": 8.0,
+    "byd": 0.0
+  },
+  "blrink": {
+    "pst": 3.5,
+    "prs": 7.5,
+    "ftr": 9.7,
+    "byd": 0.0
+  },
+  "oblivia": {
+    "pst": 3.5,
+    "prs": 5.0,
+    "ftr": 8.3,
+    "byd": 0.0
+  },
+  "amygdata": {
+    "pst": 4.0,
+    "prs": 7.5,
+    "ftr": 9.7,
+    "byd": 0.0
+  },
+  "corpssansorganes": {
+    "pst": 4.5,
+    "prs": 7.5,
+    "ftr": 10.6,
+    "byd": 0.0
+  },
+  "equilibrium": {
+    "pst": 3.5,
+    "prs": 6.5,
+    "ftr": 9.4,
+    "byd": 0.0
+  },
+  "antagonism": {
+    "pst": 4.5,
+    "prs": 7.5,
+    "ftr": 9.9,
+    "byd": 0.0
+  },
+  "lostdesire": {
+    "pst": 4.0,
+    "prs": 7.5,
+    "ftr": 9.8,
+    "byd": 0.0
+  },
+  "dantalion": {
+    "pst": 5.0,
+    "prs": 8.2,
+    "ftr": 10.9,
+    "byd": 0.0
+  },
+  "ifi": {
+    "pst": 5.5,
+    "prs": 9.2,
+    "ftr": 10.9,
+    "byd": 0.0
+  },
+  "tempestissimo": {
+    "pst": 6.5,
+    "prs": 9.5,
+    "ftr": 10.7,
+    "byd": 11.5
+  },
+  "arcahv": {
+    "pst": 4.5,
+    "prs": 7.5,
+    "ftr": 9.9,
+    "byd": 0.0
+  },
+  "altale": {
+    "pst": 2.5,
+    "prs": 5.5,
+    "ftr": 9.7,
+    "byd": 0.0
+  },
+  "givemeanightmare": {
+    "pst": 3.5,
+    "prs": 5.5,
+    "ftr": 8.9,
+    "byd": 0.0
+  },
+  "blacklotus": {
+    "pst": 3.0,
+    "prs": 6.5,
+    "ftr": 9.7,
+    "byd": 0.0
+  },
+  "gekka": {
+    "pst": 4.0,
+    "prs": 6.0,
+    "ftr": 8.6,
+    "byd": 0.0
+  },
+  "vividtheory": {
+    "pst": 2.0,
+    "prs": 5.0,
+    "ftr": 8.8,
+    "byd": 0.0
+  },
+  "onefr": {
+    "pst": 2.5,
+    "prs": 6.5,
+    "ftr": 8.2,
+    "byd": 0.0
+  },
+  "scarletcage": {
+    "pst": 4.0,
+    "prs": 7.0,
+    "ftr": 9.8,
+    "byd": 0.0
+  },
+  "faintlight": {
+    "pst": 3.0,
+    "prs": 6.0,
+    "ftr": 9.1,
+    "byd": 0.0
+  },
+  "feelssoright": {
+    "pst": 3.5,
+    "prs": 6.5,
+    "ftr": 9.3,
+    "byd": 0.0
+  },
+  "teriqma": {
+    "pst": 3.0,
+    "prs": 6.5,
+    "ftr": 9.4,
+    "byd": 9.7
+  },
+  "mahoroba": {
+    "pst": 3.0,
+    "prs": 6.5,
+    "ftr": 9.5,
+    "byd": 0.0
+  },
+  "badtek": {
+    "pst": 4.0,
+    "prs": 7.0,
+    "ftr": 9.7,
+    "byd": 0.0
+  },
+  "maliciousmischance": {
+    "pst": 4.0,
+    "prs": 7.5,
+    "ftr": 10.2,
+    "byd": 0.0
+  },
+  "gothiveofra": {
+    "pst": 3.0,
+    "prs": 6.5,
+    "ftr": 9.8,
+    "byd": 0.0
+  },
+  "buchigireberserker": {
+    "pst": 5.0,
+    "prs": 8.6,
+    "ftr": 10.9,
+    "byd": 0.0
+  },
+  "galaxyfriends": {
+    "pst": 3.5,
+    "prs": 6.0,
+    "ftr": 9.8,
+    "byd": 0.0
+  },
+  "crossover": {
+    "pst": 4.0,
+    "prs": 6.5,
+    "ftr": 9.4,
+    "byd": 0.0
+  },
+  "xeraphinite": {
+    "pst": 3.0,
+    "prs": 7.0,
+    "ftr": 9.8,
+    "byd": 0.0
+  },
+  "lapis": {
+    "pst": 2.0,
+    "prs": 6.0,
+    "ftr": 9.4,
+    "byd": 0.0
+  },
+  "xanatos": {
+    "pst": 4.0,
+    "prs": 7.5,
+    "ftr": 10.0,
+    "byd": 0.0
+  },
+  "purpleverse": {
+    "pst": 4.0,
+    "prs": 7.0,
+    "ftr": 9.6,
+    "byd": 0.0
+  },
+  "alicealamode": {
+    "pst": 2.5,
+    "prs": 6.5,
+    "ftr": 9.2,
+    "byd": 0.0
+  },
+  "eccentrictale": {
+    "pst": 2.0,
+    "prs": 5.5,
+    "ftr": 8.4,
+    "byd": 0.0
+  },
+  "alicessuitcase": {
+    "pst": 3.5,
+    "prs": 6.0,
+    "ftr": 9.1,
+    "byd": 0.0
+  },
+  "jump": {
+    "pst": 4.0,
+    "prs": 6.0,
+    "ftr": 9.0,
+    "byd": 0.0
+  },
+  "felis": {
+    "pst": 4.0,
+    "prs": 7.5,
+    "ftr": 10.4,
+    "byd": 0.0
+  },
+  "besideyou": {
+    "pst": 2.5,
+    "prs": 6.0,
+    "ftr": 8.7,
+    "byd": 0.0
+  },
+  "heartjackin": {
+    "pst": 3.0,
+    "prs": 5.5,
+    "ftr": 9.7,
+    "byd": 0.0
+  },
+  "toaliceliddell": {
+    "pst": 4.0,
+    "prs": 7.0,
+    "ftr": 10.3,
+    "byd": 0.0
+  },
+  "lazyaddiction": {
+    "pst": 2.5,
+    "prs": 6.0,
+    "ftr": 9.6,
+    "byd": 0.0
+  },
+  "dazzlehop": {
+    "pst": 3.5,
+    "prs": 6.0,
+    "ftr": 9.7,
+    "byd": 0.0
+  },
+  "viyellastears": {
+    "pst": 4.0,
+    "prs": 7.0,
+    "ftr": 10.3,
+    "byd": 0.0
+  },
+  "omegafour": {
+    "pst": 3.5,
+    "prs": 7.5,
+    "ftr": 10.8,
+    "byd": 0.0
+  },
+  "aprilshowers": {
+    "pst": 2.0,
+    "prs": 5.5,
+    "ftr": 8.3,
+    "byd": 0.0
+  },
+  "seventhsense": {
+    "pst": 3.0,
+    "prs": 7.5,
+    "ftr": 9.9,
+    "byd": 0.0
+  },
+  "oshamascramble": {
+    "pst": 3.5,
+    "prs": 6.5,
+    "ftr": 10.0,
+    "byd": 0.0
+  },
+  "amazingmightyyyy": {
+    "pst": 4.5,
+    "prs": 7.5,
+    "ftr": 10.7,
+    "byd": 0.0
+  },
+  "climax": {
+    "pst": 4.5,
+    "prs": 7.5,
+    "ftr": 10.4,
+    "byd": 0.0
+  },
+  "lastcelebration": {
+    "pst": 3.5,
+    "prs": 6.5,
+    "ftr": 10.5,
+    "byd": 0.0
+  },
+  "gou": {
+    "pst": 5.5,
+    "prs": 8.5,
+    "ftr": 10.9,
+    "byd": 0.0
+  },
+  "glow": {
+    "pst": 4.0,
+    "prs": 7.0,
+    "ftr": 9.3,
+    "byd": 0.0
+  },
+  "attraqtia": {
+    "pst": 4.0,
+    "prs": 7.5,
+    "ftr": 10.6,
+    "byd": 0.0
+  },
+  "enchantedlove": {
+    "pst": 2.0,
+    "prs": 4.5,
+    "ftr": 8.4,
+    "byd": 0.0
+  },
+  "take": {
+    "pst": 3.0,
+    "prs": 6.5,
+    "ftr": 10.0,
+    "byd": 0.0
+  },
+  "gimmedablood": {
+    "pst": 3.5,
+    "prs": 7.0,
+    "ftr": 10.4,
+    "byd": 0.0
+  },
+  "bassline": {
+    "pst": 3.0,
+    "prs": 6.5,
+    "ftr": 9.3,
+    "byd": 0.0
+  },
+  "lifeispiano": {
+    "pst": 3.5,
+    "prs": 5.5,
+    "ftr": 9.1,
+    "byd": 0.0
+  },
+  "paperwitch": {
+    "pst": 2.0,
+    "prs": 5.0,
+    "ftr": 8.7,
+    "byd": 0.0
+  },
+  "crystalgravity": {
+    "pst": 3.5,
+    "prs": 6.5,
+    "ftr": 9.4,
+    "byd": 0.0
+  },
+  "farawaylight": {
+    "pst": 4.5,
+    "prs": 7.5,
+    "ftr": 9.8,
+    "byd": 0.0
+  },
+  "loschen": {
+    "pst": 3.5,
+    "prs": 7.0,
+    "ftr": 10.2,
+    "byd": 0.0
+  },
+  "aegleseeker": {
+    "pst": 5.5,
+    "prs": 9.1,
+    "ftr": 11.1,
+    "byd": 0.0
+  },
+  "coastalhighway": {
+    "pst": 3.0,
+    "prs": 6.0,
+    "ftr": 8.8,
+    "byd": 0.0
+  },
+  "odysseia": {
+    "pst": 4.0,
+    "prs": 7.5,
+    "ftr": 9.5,
+    "byd": 0.0
+  },
+  "overwhelm": {
+    "pst": 5.0,
+    "prs": 8.5,
+    "ftr": 10.6,
+    "byd": 0.0
+  },
+  "vandalism": {
+    "pst": 3.5,
+    "prs": 6.0,
+    "ftr": 9.7,
+    "byd": 0.0
+  },
+  "turbocharger": {
+    "pst": 2.5,
+    "prs": 5.5,
+    "ftr": 9.0,
+    "byd": 0.0
+  },
+  "theultimacy": {
+    "pst": 3.0,
+    "prs": 7.0,
+    "ftr": 9.8,
+    "byd": 0.0
+  },
+  "rekkaresonance": {
+    "pst": 5.0,
+    "prs": 8.3,
+    "ftr": 10.7,
+    "byd": 0.0
+  },
+  "kyogenkigo": {
+    "pst": 3.5,
+    "prs": 6.5,
+    "ftr": 9.3,
+    "byd": 0.0
+  },
+  "hivemind": {
+    "pst": 4.0,
+    "prs": 7.5,
+    "ftr": 10.0,
+    "byd": 0.0
+  },
+  "seclusion": {
+    "pst": 4.0,
+    "prs": 7.0,
+    "ftr": 10.6,
+    "byd": 0.0
+  },
+  "smallcloud": {
+    "pst": 3.0,
+    "prs": 6.5,
+    "ftr": 9.1,
+    "byd": 0.0
+  },
+  "alterale": {
+    "pst": 3.0,
+    "prs": 6.0,
+    "ftr": 9.7,
+    "byd": 0.0
+  },
+  "divinelight": {
+    "pst": 4.5,
+    "prs": 7.5,
+    "ftr": 10.8,
+    "byd": 0.0
+  },
+  "mazymetroplex": {
+    "pst": 3.0,
+    "prs": 7.5,
+    "ftr": 9.7,
+    "byd": 0.0
+  },
+  "quonwacca": {
+    "pst": 2.5,
+    "prs": 5.5,
+    "ftr": 8.7,
+    "byd": 10.2
+  },
+  "withu": {
+    "pst": 2.5,
+    "prs": 6.5,
+    "ftr": 9.4,
+    "byd": 0.0
+  },
+  "genocider": {
+    "pst": 4.5,
+    "prs": 8.5,
+    "ftr": 10.7,
+    "byd": 0.0
+  },
+  "letyoudivermx": {
+    "pst": 3.0,
+    "prs": 6.5,
+    "ftr": 9.4,
+    "byd": 0.0
+  },
+  "sheriruthrmx": {
+    "pst": 4.0,
+    "prs": 7.5,
+    "ftr": 10.6,
+    "byd": 0.0
+  },
+  "eveninginscarlet": {
+    "pst": 4.0,
+    "prs": 7.0,
+    "ftr": 9.5,
+    "byd": 0.0
+  },
+  "bluecomet": {
+    "pst": 3.5,
+    "prs": 5.0,
+    "ftr": 8.2,
+    "byd": 0.0
+  },
+  "energysynergymatrix": {
+    "pst": 3.5,
+    "prs": 7.0,
+    "ftr": 9.6,
+    "byd": 0.0
+  },
+  "gengaozo": {
+    "pst": 4.0,
+    "prs": 7.5,
+    "ftr": 10.2,
+    "byd": 0.0
+  },
+  "goldenslaughterer": {
+    "pst": 4.0,
+    "prs": 6.5,
+    "ftr": 9.7,
+    "byd": 0.0
+  },
+  "lastendconductor": {
+    "pst": 3.5,
+    "prs": 7.0,
+    "ftr": 9.4,
+    "byd": 10.1
+  },
+  "redolentshape": {
+    "pst": 4.5,
+    "prs": 7.5,
+    "ftr": 10.2,
+    "byd": 0.0
+  },
+  "cosmica": {
+    "pst": 2.5,
+    "prs": 5.0,
+    "ftr": 8.5,
+    "byd": 0.0
+  },
+  "ascent": {
+    "pst": 3.0,
+    "prs": 6.0,
+    "ftr": 9.8,
+    "byd": 0.0
+  },
+  "livefastdieyoung": {
+    "pst": 4.5,
+    "prs": 8.1,
+    "ftr": 10.6,
+    "byd": 0.0
+  },
+  "summerfireworks": {
+    "pst": 3.0,
+    "prs": 6.5,
+    "ftr": 9.9,
+    "byd": 0.0
+  },
+  "firstsnow": {
+    "pst": 2.5,
+    "prs": 4.5,
+    "ftr": 7.5,
+    "byd": 0.0
+  },
+  "bluerose": {
+    "pst": 2.0,
+    "prs": 5.5,
+    "ftr": 9.1,
+    "byd": 0.0
+  },
+  "blockedlibrary": {
+    "pst": 3.5,
+    "prs": 6.5,
+    "ftr": 9.3,
+    "byd": 0.0
+  },
+  "neokosmo": {
+    "pst": 4.0,
+    "prs": 7.5,
+    "ftr": 9.7,
+    "byd": 0.0
+  },
+  "lightningscrew": {
+    "pst": 4.5,
+    "prs": 7.5,
+    "ftr": 10.5,
+    "byd": 0.0
+  },
+  "lightsofmuse": {
+    "pst": 2.5,
+    "prs": 5.5,
+    "ftr": 8.7,
+    "byd": 0.0
+  },
+  "finalstep": {
+    "pst": 3.5,
+    "prs": 6.5,
+    "ftr": 9.4,
+    "byd": 0.0
+  },
+  "akinokagerou": {
+    "pst": 3.5,
+    "prs": 7.0,
+    "ftr": 9.8,
+    "byd": 0.0
+  },
+  "medusa": {
+    "pst": 4.5,
+    "prs": 7.0,
+    "ftr": 10.2,
+    "byd": 0.0
+  },
+  "init": {
+    "pst": 4.0,
+    "prs": 7.0,
+    "ftr": 9.8,
+    "byd": 0.0
+  },
+  "internetoverdose": {
+    "pst": 3.0,
+    "prs": 6.5,
+    "ftr": 8.4,
+    "byd": 0.0
+  },
+  "sakurafubuki": {
+    "pst": 3.5,
+    "prs": 5.5,
+    "ftr": 9.3,
+    "byd": 0.0
+  },
+  "nulctrl": {
+    "pst": 3.0,
+    "prs": 6.0,
+    "ftr": 9.5,
+    "byd": 0.0
+  },
+  "macromod": {
+    "pst": 4.0,
+    "prs": 7.5,
+    "ftr": 9.8,
+    "byd": 0.0
+  },
+  "neowings": {
+    "pst": 4.0,
+    "prs": 7.5,
+    "ftr": 10.2,
+    "byd": 0.0
+  },
+  "kissinglucifer": {
+    "pst": 4.5,
+    "prs": 7.5,
+    "ftr": 10.4,
+    "byd": 0.0
+  },
+  "avril": {
+    "pst": 3.0,
+    "prs": 6.0,
+    "ftr": 8.3,
+    "byd": 0.0
+  },
+  "aurgelmir": {
+    "pst": 4.5,
+    "prs": 7.5,
+    "ftr": 10.5,
+    "byd": 0.0
+  },
+  "headbonkache": {
+    "pst": 4.0,
+    "prs": 7.0,
+    "ftr": 9.4,
+    "byd": 0.0
+  },
+  "ddd": {
+    "pst": 2.5,
+    "prs": 6.5,
+    "ftr": 8.5,
+    "byd": 0.0
+  },
+  "prism": {
+    "pst": 2.0,
+    "prs": 5.0,
+    "ftr": 8.0,
+    "byd": 0.0
+  },
+  "protoflicker": {
+    "pst": 3.0,
+    "prs": 6.0,
+    "ftr": 9.8,
+    "byd": 0.0
+  },
+  "stasis": {
+    "pst": 4.5,
+    "prs": 7.0,
+    "ftr": 10.7,
+    "byd": 0.0
+  },
+  "picopicotranslation": {
+    "pst": 2.0,
+    "prs": 6.0,
+    "ftr": 9.3,
+    "byd": 0.0
+  },
+  "nekonote": {
+    "pst": 3.0,
+    "prs": 6.0,
+    "ftr": 9.2,
+    "byd": 0.0
+  },
+  "mu": {
+    "pst": 3.5,
+    "prs": 7.0,
+    "ftr": 9.7,
+    "byd": 0.0
+  },
+  "sanskia": {
+    "pst": 3.5,
+    "prs": 6.0,
+    "ftr": 8.3,
+    "byd": 0.0
+  },
+  "altair": {
+    "pst": 2.5,
+    "prs": 6.0,
+    "ftr": 8.3,
+    "byd": 0.0
+  },
+  "mukishitsu": {
+    "pst": 4.0,
+    "prs": 6.5,
+    "ftr": 9.2,
+    "byd": 0.0
+  },
+  "trapcrow": {
+    "pst": 4.5,
+    "prs": 7.5,
+    "ftr": 9.9,
+    "byd": 0.0
+  },
+  "pupa": {
+    "pst": 4.0,
+    "prs": 7.5,
+    "ftr": 10.4,
+    "byd": 0.0
+  },
+  "defection": {
+    "pst": 3.5,
+    "prs": 6.5,
+    "ftr": 9.8,
+    "byd": 0.0
+  },
+  "infinitestrife": {
+    "pst": 4.0,
+    "prs": 7.5,
+    "ftr": 9.9,
+    "byd": 10.9
+  },
+  "worldender": {
+    "pst": 4.0,
+    "prs": 7.5,
+    "ftr": 9.9,
+    "byd": 11.2
+  },
+  "pentiment": {
+    "pst": 6.0,
+    "prs": 8.4,
+    "ftr": 10.3,
+    "byd": 11.4
+  },
+  "arcanaeden": {
+    "pst": 5.5,
+    "prs": 8.7,
+    "ftr": 10.5,
+    "byd": 11.4
+  },
+  "testify": {
+    "pst": 7.0,
+    "prs": 9.4,
+    "ftr": 10.8,
+    "byd": 12.0
+  },
+  "lovelessdress": {
+    "pst": 3.5,
+    "prs": 6.5,
+    "ftr": 9.6,
+    "byd": 0.0
+  },
+  "last": {
+    "pst": 4.0,
+    "prs": 7.0,
+    "ftr": 9.0,
+    "byd": 9.6
+  },
+  "lasteternity": {
+    "pst": 0.0,
+    "prs": 0.0,
+    "ftr": 0.0,
+    "byd": 9.7
+  },
+  "callimakarma": {
+    "pst": 3.5,
+    "prs": 7.0,
+    "ftr": 9.8,
+    "byd": 0.0
+  },
+  "kokoro": {
+    "pst": 1.0,
+    "prs": 5.0,
+    "ftr": 9.3,
+    "byd": 0.0
+  },
+  "aidrew": {
+    "pst": 3.5,
+    "prs": 6.5,
+    "ftr": 9.8,
+    "byd": 0.0
+  },
+  "fluffyflash": {
+    "pst": 3.5,
+    "prs": 6.5,
+    "ftr": 9.8,
+    "byd": 0.0
+  },
+  "goodbyemerry": {
+    "pst": 4.5,
+    "prs": 7.5,
+    "ftr": 10.5,
+    "byd": 0.0
+  },
+  "lamia": {
+    "pst": 5.0,
+    "prs": 8.3,
+    "ftr": 10.9,
+    "byd": 0.0
+  },
+  "freemyself": {
+    "pst": 4.5,
+    "prs": 7.5,
+    "ftr": 10.0,
+    "byd": 0.0
+  },
+  "cocorocosmetic": {
+    "pst": 3.0,
+    "prs": 6.0,
+    "ftr": 9.2,
+    "byd": 0.0
+  },
+  "capella": {
+    "pst": 4.5,
+    "prs": 7.5,
+    "ftr": 10.2,
+    "byd": 0.0
+  },
+  "dialnote": {
+    "pst": 3.0,
+    "prs": 6.0,
+    "ftr": 8.1,
+    "byd": 0.0
+  },
+  "tsukinimurakumo": {
+    "pst": 3.0,
+    "prs": 6.0,
+    "ftr": 8.4,
+    "byd": 0.0
+  },
+  "mantis": {
+    "pst": 3.0,
+    "prs": 5.5,
+    "ftr": 9.3,
+    "byd": 0.0
+  },
+  "worldfragments": {
+    "pst": 3.5,
+    "prs": 7.0,
+    "ftr": 9.8,
+    "byd": 0.0
+  },
+  "astrawalkthrough": {
+    "pst": 4.5,
+    "prs": 7.5,
+    "ftr": 9.9,
+    "byd": 0.0
+  },
+  "chronicle": {
+    "pst": 5.0,
+    "prs": 8.5,
+    "ftr": 10.4,
+    "byd": 0.0
+  },
+  "nullapophenia": {
+    "pst": 4.5,
+    "prs": 7.5,
+    "ftr": 10.6,
+    "byd": 0.0
+  },
+  "crimsonthrone": {
+    "pst": 4.0,
+    "prs": 8.0,
+    "ftr": 10.4,
+    "byd": 0.0
+  },
+  "manicjeer": {
+    "pst": 4.0,
+    "prs": 7.5,
+    "ftr": 10.6,
+    "byd": 0.0
+  },
+  "hiirogekka": {
+    "pst": 3.5,
+    "prs": 6.5,
+    "ftr": 10.3,
+    "byd": 0.0
+  },
+  "letsrock": {
+    "pst": 3.0,
+    "prs": 7.0,
+    "ftr": 9.7,
+    "byd": 0.0
+  },
+  "cycles": {
+    "pst": 2.0,
+    "prs": 5.0,
+    "ftr": 8.8,
+    "byd": 0.0
+  },
+  "maxrage": {
+    "pst": 3.5,
+    "prs": 6.5,
+    "ftr": 9.9,
+    "byd": 0.0
+  },
+  "infinity": {
+    "pst": 4.5,
+    "prs": 7.5,
+    "ftr": 10.4,
+    "byd": 0.0
+  },
+  "temptation": {
+    "pst": 5.0,
+    "prs": 8.2,
+    "ftr": 10.9,
+    "byd": 0.0
+  },
+  "primitivelights": {
+    "pst": 5.5,
+    "prs": 8.5,
+    "ftr": 10.7,
+    "byd": 0.0
+  },
+  "cosmopop": {
+    "pst": 2.5,
+    "prs": 6.0,
+    "ftr": 8.8,
+    "byd": 0.0
+  },
+  "impact": {
+    "pst": 3.5,
+    "prs": 7.5,
+    "ftr": 9.6,
+    "byd": 10.4
+  },
+  "genesischunithm": {
+    "pst": 4.0,
+    "prs": 7.0,
+    "ftr": 9.9,
+    "byd": 0.0
+  },
+  "trrricksters": {
+    "pst": 4.5,
+    "prs": 7.5,
+    "ftr": 10.1,
+    "byd": 0.0
+  },
+  "spidersthread": {
+    "pst": 4.5,
+    "prs": 7.5,
+    "ftr": 10.8,
+    "byd": 0.0
+  },
+  "lostemotion": {
+    "pst": 3.5,
+    "prs": 7.0,
+    "ftr": 9.3,
+    "byd": 0.0
+  },
+  "gimmick": {
+    "pst": 2.5,
+    "prs": 6.5,
+    "ftr": 9.5,
+    "byd": 0.0
+  },
+  "thesurvivor": {
+    "pst": 3.5,
+    "prs": 6.5,
+    "ftr": 9.9,
+    "byd": 0.0
+  },
+  "newyorkbackraise": {
+    "pst": 4.5,
+    "prs": 7.0,
+    "ftr": 9.9,
+    "byd": 0.0
+  },
+  "galacticlove": {
+    "pst": 3.0,
+    "prs": 6.5,
+    "ftr": 9.0,
+    "byd": 0.0
+  },
+  "lawlesspoint": {
+    "pst": 3.0,
+    "prs": 6.0,
+    "ftr": 8.9,
+    "byd": 0.0
+  },
+  "lostintheabyss": {
+    "pst": 3.5,
+    "prs": 6.5,
+    "ftr": 9.7,
+    "byd": 0.0
+  },
+  "hybris": {
+    "pst": 4.5,
+    "prs": 7.5,
+    "ftr": 9.8,
+    "byd": 0.0
+  },
+  "tothemilkyway": {
+    "pst": 5.0,
+    "prs": 8.7,
+    "ftr": 10.5,
+    "byd": 0.0
+  },
+  "internetyamero": {
+    "pst": 4.5,
+    "prs": 7.5,
+    "ftr": 9.9,
+    "byd": 0.0
+  },
+  "bulletwaiting": {
+    "pst": 2.5,
+    "prs": 4.5,
+    "ftr": 8.1,
+    "byd": 0.0
+  },
+  "devillicsphere": {
+    "pst": 4.0,
+    "prs": 7.5,
+    "ftr": 9.9,
+    "byd": 0.0
+  },
+  "lucidtraveler": {
+    "pst": 4.5,
+    "prs": 8.3,
+    "ftr": 10.4,
+    "byd": 0.0
+  },
+  "chaos": {
+    "pst": 5.5,
+    "prs": 7.5,
+    "ftr": 10.9,
+    "byd": 0.0
+  },
+  "usedtobe": {
+    "pst": 4.0,
+    "prs": 6.5,
+    "ftr": 9.2,
+    "byd": 0.0
+  },
+  "ultimatetaste": {
+    "pst": 3.5,
+    "prs": 6.5,
+    "ftr": 9.7,
+    "byd": 0.0
+  },
+  "syuten": {
+    "pst": 2.0,
+    "prs": 5.0,
+    "ftr": 8.5,
+    "byd": 0.0
+  },
+  "drg": {
+    "pst": 3.5,
+    "prs": 7.0,
+    "ftr": 9.5,
+    "byd": 0.0
+  },
+  "nnglooms": {
+    "pst": 4.0,
+    "prs": 7.5,
+    "ftr": 10.3,
+    "byd": 0.0
+  },
+  "ii": {
+    "pst": 5.0,
+    "prs": 8.4,
+    "ftr": 10.8,
+    "byd": 0.0
+  },
+  "magnolia": {
+    "pst": 4.5,
+    "prs": 7.5,
+    "ftr": 10.2,
+    "byd": 0.0
+  },
+  "sacrifice": {
+    "pst": 3.0,
+    "prs": 7.0,
+    "ftr": 9.7,
+    "byd": 0.0
+  },
+  "rgb": {
+    "pst": 4.0,
+    "prs": 7.0,
+    "ftr": 9.7,
+    "byd": 0.0
+  },
+  "waitfordawn": {
+    "pst": 2.0,
+    "prs": 6.0,
+    "ftr": 8.7,
+    "byd": 0.0
+  },
+  "ravenspride": {
+    "pst": 3.0,
+    "prs": 6.0,
+    "ftr": 9.4,
+    "byd": 0.0
+  },
+  "riseoftheworld": {
+    "pst": 4.0,
+    "prs": 7.0,
+    "ftr": 10.4,
+    "byd": 0.0
+  },
+  "unknownlevels": {
+    "pst": 4.0,
+    "prs": 7.0,
+    "ftr": 10.6,
+    "byd": 0.0
+  },
+  "abstrusedilemma": {
+    "pst": 5.0,
+    "prs": 8.4,
+    "ftr": 11.1,
+    "byd": 0.0
+  },
+  "matenrou": {
+    "pst": 3.5,
+    "prs": 6.5,
+    "ftr": 9.8,
+    "byd": 0.0
+  },
+  "tothefurthestdream": {
+    "pst": 0.0,
+    "prs": 0.0,
+    "ftr": 0.0,
+    "byd": 0.0
+  }
+}
