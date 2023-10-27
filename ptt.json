@@ -2116,5 +2116,29 @@
     "prs": 9.4,
     "ftr": 11.3,
     "byd": 0.0
+  },
+  "fantasy": {
+    "pst": 3.0,
+    "prs": 6.5,
+    "ftr": 9.4,
+    "byd": 0.0
+  },
+  "transientspace": {
+    "pst": 2.5,
+    "prs": 6.5,
+    "ftr": 9.5,
+    "byd": 0.0
+  },
+  "namelesspassion": {
+    "pst": 3.0,
+    "prs": 7.0,
+    "ftr": 9.9,
+    "byd": 0.0
+  },
+  "teravolt": {
+    "pst": 5.0,
+    "prs": 8.4,
+    "ftr": 10.9,
+    "byd": 0.0
   }
 }
