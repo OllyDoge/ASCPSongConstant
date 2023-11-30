@@ -2140,5 +2140,47 @@
     "prs": 8.4,
     "ftr": 10.9,
     "byd": 0.0
+  },
+  "stratoliner": {
+    "pst": 3.5,
+    "prs": 6.5,
+    "ftr": 9.6,
+    "byd": 0.0
+  },
+  "ouverture": {
+    "pst": 2.5,
+    "prs": 7.5,
+    "ftr": 9.8,
+    "byd": 0.0
+  },
+  "xtreme": {
+    "pst": 4.5,
+    "prs": 7.5,
+    "ftr": 10.5,
+    "byd": 0.0
+  },
+  "edenwacca": {
+    "pst": 4.5,
+    "prs": 8.2,
+    "ftr": 10.5,
+    "byd": 0.0
+  },
+  "metamysteria": {
+    "pst": 5.0,
+    "prs": 7.5,
+    "ftr": 10.8,
+    "byd": 0.0
+  },
+  "aloneandlorn": {
+    "pst": 3.0,
+    "prs": 6.0,
+    "ftr": 9.6,
+    "byd": 0.0
+  },
+  "wishuponasnow": {
+    "pst": 4.5,
+    "prs": 7.5,
+    "ftr": 10.5,
+    "byd": 0.0
   }
 }
