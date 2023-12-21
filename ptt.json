@@ -2182,5 +2182,29 @@
     "prs": 7.5,
     "ftr": 10.5,
     "byd": 0.0
+  },
+  "overdrive": {
+    "pst": 4.0,
+    "prs": 7.0,
+    "ftr": 10.0,
+    "byd": 0.0
+  },
+  "felys": {
+    "pst": 3.0,
+    "prs": 6.5,
+    "ftr": 9.5,
+    "byd": 0.0
+  },
+  "onandon": {
+    "pst": 3.0,
+    "prs": 7.0,
+    "ftr": 9.5,
+    "byd": 0.0
+  },
+  "lightmyway": {
+    "pst": 4.5,
+    "prs": 7.5,
+    "ftr": 9.5,
+    "byd": 0.0
   }
 }
