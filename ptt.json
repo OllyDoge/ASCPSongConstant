@@ -477,7 +477,7 @@
     "pst": 4.0,
     "prs": 7.0,
     "ftr": 9.5,
-    "byd": 0.0
+    "byd": 9.8
   },
   "callmyname": {
     "pst": 3.5,
@@ -489,7 +489,7 @@
     "pst": 2.0,
     "prs": 4.0,
     "ftr": 7.5,
-    "byd": 0.0
+    "byd": 9.4
   },
   "mazenine": {
     "pst": 3.0,
@@ -669,7 +669,7 @@
     "pst": 3.5,
     "prs": 5.5,
     "ftr": 9.2,
-    "byd": 0.0
+    "byd": 10.5
   },
   "solitarydream": {
     "pst": 4.0,
@@ -699,7 +699,7 @@
     "pst": 4.0,
     "prs": 7.5,
     "ftr": 10.0,
-    "byd": 0.0
+    "byd": 11.1
   },
   "cyaegha": {
     "pst": 5.5,
@@ -885,7 +885,7 @@
     "pst": 4.0,
     "prs": 7.0,
     "ftr": 9.8,
-    "byd": 0.0
+    "byd": 10.9
   },
   "izana": {
     "pst": 5.0,
@@ -915,7 +915,7 @@
     "pst": 3.5,
     "prs": 5.0,
     "ftr": 8.3,
-    "byd": 0.0
+    "byd": 9.7
   },
   "amygdata": {
     "pst": 4.0,
@@ -1095,7 +1095,7 @@
     "pst": 4.0,
     "prs": 7.0,
     "ftr": 9.6,
-    "byd": 0.0
+    "byd": 10.6
   },
   "alicealamode": {
     "pst": 2.5,
@@ -2210,6 +2210,18 @@
   "hotarubinoyuki": {
     "pst": 3.5,
     "prs": 7.0,
+    "ftr": 9.7,
+    "byd": 0.0
+  },
+  "theformula": {
+    "pst": 3.0,
+    "prs": 6.0,
+    "ftr": 9.3,
+    "byd": 0.0
+  },
+  "lunarossa": {
+    "pst": 3.0,
+    "prs": 6.0,
     "ftr": 9.7,
     "byd": 0.0
   }
